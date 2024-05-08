@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb83dd73b0ecd704caed3e0f102bfede, type: 3}
+  m_Name: PatternData
+  m_EditorClassIdentifier: 
+  _level: 0
+  _damage: 33
+  _PatternTimes: 0f00000014000000120000000f0000000f0000001400000014000000100000001400000014000000
+  _LevelTimes: 04000000070000000c0000000f000000190000001e00000028000000280000002800000028000000ff356544
+  _PatternScoreMul:
+  - 1.6
+  - 1.2
+  - 1.2
+  - 1.4
+  - 1.3
+  - 1.5
+  - 1.4
+  - 1.3
+  - 1.4
+  - 1.4
+  - 1.8
+  - 2.5
+  _is_Gameover: 0
